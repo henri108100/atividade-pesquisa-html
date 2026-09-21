@@ -1,0 +1,142 @@
+[
+    {
+        "nome": "Notebook",
+        "preco": 3500.00,
+        "categoria": "Tecnologia",
+        "modelo": "Lenovo IdeaPad 3",
+        "imagem": "src/assets/images/Lenovo IdeaPad 3.jpeg"
+    },
+    {
+        "nome": "Celular",
+        "preco": 1800.00,
+        "categoria": "Tecnologia",
+        "modelo": "Samsung Galaxy A55",
+        "imagem": "src/assets/images/Samsung Galaxy A55.jpg"
+    },
+    {
+        "nome": "Tênis",
+        "preco": 299.90,
+        "categoria": "Calçados",
+        "modelo": "Nike Revolution 7",
+        "imagem": "src/assets/images/Nike Revolution 7.jpg"
+    },
+    {
+        "nome": "Camiseta",
+        "preco": 79.90,
+        "categoria": "Roupas",
+        "modelo": "Adidas Essentials",
+        "imagem": "src/assets/images/Adidas Essentials.webp"
+    },
+    {
+        "nome": "Mouse",
+        "preco": 120.00,
+        "categoria": "Tecnologia",
+        "modelo": "Logitech G203",
+        "imagem": "src/assets/images/Logitech G203.jpg"
+    },
+    {
+        "nome": "Teclado",
+        "preco": 249.90,
+        "categoria": "Tecnologia",
+        "modelo": "Redragon Kumara",
+        "imagem": "src/assets/images/Redragon Kumara.webp"
+    },
+    {
+        "nome": "Monitor",
+        "preco": 899.90,
+        "categoria": "Tecnologia",
+        "modelo": "LG UltraGear 24",
+        "imagem": "src/assets/images/LG UltraGear 24.webp"
+    },
+    {
+        "nome": "Fone de Ouvido",
+        "preco": 199.90,
+        "categoria": "Tecnologia",
+        "modelo": "JBL Tune 520BT",
+        "imagem": "src/assets/images/JBL Tune 520BT.jpg"
+    },
+    {
+        "nome": "Smartwatch",
+        "preco": 499.90,
+        "categoria": "Tecnologia",
+        "modelo": "Xiaomi Redmi Watch 5",
+        "imagem": "src/assets/images/Xiaomi Redmi Watch 5.jpg"
+    },
+    {
+        "nome": "Mochila",
+        "preco": 159.90,
+        "categoria": "Acessórios",
+        "modelo": "Adidas Classic",
+        "imagem": "src/assets/images/Adidas Classic.jpeg"
+    },
+    {
+        "nome": "Calça",
+        "preco": 129.90,
+        "categoria": "Roupas",
+        "modelo": "Nike Sportswear",
+        "imagem": "src/assets/images/Nike Sportswear.avif"
+    },
+    {
+        "nome": "Jaqueta",
+        "preco": 249.90,
+        "categoria": "Roupas",
+        "modelo": "Puma Essentials",
+        "imagem": "src/assets/images/Puma Essentials.webp"
+    },
+    {
+        "nome": "Chinelo",
+        "preco": 59.90,
+        "categoria": "Calçados",
+        "modelo": "Havaianas Top",
+        "imagem": "src/assets/images/Havaianas Top.jpg"
+    },
+    {
+        "nome": "Bota",
+        "preco": 349.90,
+        "categoria": "Calçados",
+        "modelo": "Timberland Classic",
+        "imagem": "src/assets/images/Timberland Classic.avif"
+    },
+    {
+        "nome": "Controle",
+        "preco": 329.90,
+        "categoria": "Tecnologia",
+        "modelo": "Xbox Wireless Controller",
+        "imagem": "src/assets/images/Xbox Wireless Controller.jpg"
+    },
+    {
+        "nome": "Webcam",
+        "preco": 289.90,
+        "categoria": "Tecnologia",
+        "modelo": "Logitech C920",
+        "imagem": "src/assets/images/Logitech C920.jpg"
+    },
+    {
+        "nome": "Caixa de Som",
+        "preco": 219.90,
+        "categoria": "Tecnologia",
+        "modelo": "JBL Go 4",
+        "imagem": "src/assets/images/JBL Go 4.jpg"
+    },
+    {
+        "nome": "Boné",
+        "preco": 89.90,
+        "categoria": "Acessórios",
+        "modelo": "New Era 9Forty",
+        "imagem": "src/assets/images/New Era 9Forty.avif"
+    },
+    {
+        "nome": "Relógio",
+        "preco": 399.90,
+        "categoria": "Acessórios",
+        "modelo": "Casio G-Shock",
+        "imagem": "src/assets/images/Casio G-Shock.webp"
+    },
+    {
+        "nome": "Óculos",
+        "preco": 279.90,
+        "categoria": "Acessórios",
+        "modelo": "Ray-Ban Wayfarer",
+        "imagem": "src/assets/images/Ray-Ban Wayfarer.webp"
+    }
+]
