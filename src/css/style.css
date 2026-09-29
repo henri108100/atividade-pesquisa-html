@@ -1,7 +1,19 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+#barra-de-pesquisa {
+  outline: none;
+}
+
 #container {
     display: flex;
     flex-wrap: wrap;
-    gap: 15px;
+    justify-content: space-between;
+    align-items: center;
+    row-gap: 20px;
+    column-gap: 10px;
+    margin-top: 15px;
 }
 
 .cartao-produto {
@@ -27,8 +39,4 @@
 p {
     margin: 5px;
     text-align: center;
-}
-
-body {
-  font-family: "Arial", sans-serif;
 }
