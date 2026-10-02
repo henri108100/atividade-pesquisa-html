@@ -7,12 +7,20 @@
     <title>Pesquisa Produtos</title>
 </head>
 <body>
-    <h1>Atividade de Pesquisa</h1>
-    <form method="get">
-        <input id="barra-de-pesquisa" name="pesquisa" type="text" placeholder="Clique aqui para pesquisar">
-        <input type="submit" value="Pesquisar">
-    </form>
-    <div id="container"></div>
+    <header>
+        <h1>Pesquisa Produtos</h1>
+        <form method="get">
+            <input id="barra-de-pesquisa" name="pesquisa" type="text" autocomplete="off" placeholder="Buscar produtos...">
+            <input id="botao-pesquisar" type="submit" value="Pesquisar">
+            <input id="botao-limpar-pesquisa" type="submit" value="Limpar">
+        </form>
+    </header>
+    <main>
+        <div class="grid-cartoes"></div>
+    </main>
+    <footer>
+        <p>&copy; 2026 Meu Site</p>
+    </footer>
     <script src="src/js/script.js"></script>
 </body>
 </html>
